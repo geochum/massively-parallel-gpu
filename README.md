@@ -1,4 +1,3 @@
-cat << EOF > README.md
 # Massively Parallel GPU Programming Exercises
 
 A personal project implementing and experimenting with CUDA/C++ exercises and concepts from
